@@ -1,3 +1,2 @@
 # go-tour
-First test project
-Go web server
+1. Go web-server
