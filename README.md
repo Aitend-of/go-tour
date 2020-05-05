@@ -1,2 +1,2 @@
 # go-tour
-Simple web server implemented using `Go`
+Simple `web server` implemented using `Go`
