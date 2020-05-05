@@ -1,2 +1,2 @@
 # go-tour
-1. Go web-server
+Simple web server implemented using `Go`
